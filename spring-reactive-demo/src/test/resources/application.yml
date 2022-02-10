@@ -1,0 +1,7 @@
+name: spring-reactive-demo
+
+spring:
+  profiles:
+    active: MVC
+
+
